@@ -1,0 +1,11 @@
+{
+  "name": "m4zk1play-market-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix apps/web run dev",
+    "build": "npm --prefix apps/web run build",
+    "preview": "npm --prefix apps/web run preview"
+  }
+}
